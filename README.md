@@ -9,3 +9,5 @@ stash 실습
 - 3-way other
 
 - rebase fast-forward
+
+- master - rebase auto merge
