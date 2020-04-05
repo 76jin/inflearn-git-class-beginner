@@ -1,4 +1,7 @@
 learn git
+- rerebase 1.2.
+- rebase 3.
+
 - master - rebase conflict
 - feature/c rebase auto merge
 
