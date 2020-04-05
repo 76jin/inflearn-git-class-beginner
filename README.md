@@ -1,5 +1,5 @@
 learn git
-- master pr conflict
+- master & feature/e pr conflict
 - rerebase 1.2.
 - rebase 3.
 
