@@ -6,3 +6,4 @@ stash 실습
 
 
 - fast-forward exer
+- 3-way other
