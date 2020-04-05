@@ -5,5 +5,5 @@ pull 테스트
 stash 실습
 
 
-- fast-forward exer
+- fast-forward exer / conflict test
 - 3-way other
